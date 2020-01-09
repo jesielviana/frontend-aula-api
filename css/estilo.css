@@ -1,0 +1,43 @@
+body{
+  width: 500px;
+  margin: 20px auto;
+  padding: 5px 50px;
+}
+
+.postagem{
+  padding: 10px 10px 0 10px;
+  border:1px solid #ccc;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.data{
+ width: 100%;
+ text-align: right;
+ color: #999;
+}
+
+input, textarea{
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: none;
+  border:1px solid #ccc;
+}
+
+button{
+  padding: 10px;
+  font-size: 1.2em;
+  background-color: cadetblue;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  float: right;
+}
+
+.msg{
+  padding: 2px 5px;
+  width: 100%;
+  border-radius: 5px;
+  margin: 10px 0;
+}
