@@ -14,7 +14,7 @@ function getDadosFormulario () {
 }
 // Enviar os dados para a API 
 async function enviarDadosParaAPI (postagem) { 
-  const resposta = await fetch('http://localhost:3000/postagens', {
+  const resposta = await fetch('https://ifpi-web-nodejs.herokuapp.com/postagens', {
     method: 'POST',
     headers: {
       'Accept': 'application/json',
