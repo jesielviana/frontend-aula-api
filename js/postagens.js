@@ -1,7 +1,7 @@
 const divPostagens = document.getElementById('postagens');
 
 async function consultaPostagens() {
-  const retorno = await fetch('http://localhost:3000/postagens');
+  const retorno = await fetch('https://ifpi-web-nodejs.herokuapp.com/postagens');
   const dados = await retorno.json();
   preencheTela(dados);
 }
