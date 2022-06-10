@@ -70,3 +70,17 @@ button{
   max-width: 700px;
   margin: 0 auto;
 }
+
+.usuarios{
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.usuario{
+  border-bottom: 1px solid #eee;
+  border-radius: 5px;
+  padding: 0 1rem 0.5rem 1rem;
+}
