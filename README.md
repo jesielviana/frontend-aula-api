@@ -1,4 +1,6 @@
 
-# Aplicação front-end para consumir uma API - utilizada nas aulas de Web do IFPI Campus Picos
+# Front-end para consumir uma API
 
-### Prof. Jesiel Viana
+### Esta aplicação é um modelo utilizada nas aulas de Web do IFPI Campus Picos pelo Prof. Jesiel Viana
+
+
